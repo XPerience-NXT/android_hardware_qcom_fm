@@ -29,15 +29,15 @@
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="no_storage">Felvétel indítása előtt csatlakoztasson SD kártyát.</string>
-  <string name="preparing_sd">SD kártya előkészítése</string>
-  <string name="access_sd_fail">Nem lehet hozzáférni az SD kártyához.</string>
-  <string name="spaceIsLow_content">Az SD kártyája majdnem megtelt. Változtasson a minőségen, vagy töröljön képeket vagy más fájlokat.</string>
-  <string name="FMRecording_reach_size_limit">Elérte a maximális méretet.</string>
+  <string name="no_storage">Grabazioa hasi baino lehen SD txartela muntatu.</string>
+  <string name="preparing_sd">SD txartela prestatzen</string>
+  <string name="access_sd_fail">Ezinezkoa SD txartelera sartzea.</string>
+  <string name="spaceIsLow_content">SD biltegiratze txartela lekurik gabe geratzen ari da. Aldatu kalitate ezarpenak edo fitxategiren bat ezabatu.</string>
+  <string name="FMRecording_reach_size_limit">Tamaina mugara heldu da.</string>
   <string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
-  <string name="audio_db_artist_name">Saját FM felvételek</string>
-  <string name="audio_db_album_name">FM felvételek</string>
-  <string name="audio_db_playlist_name">FM felvételek</string>
-  <string name="save_record_file">\"<xliff:g id="record_file">%1$s</xliff:g>\" FM felvétel elmentve</string>
-  <string name="fm_record_progress">FM felvétel folyamatban</string>
+  <string name="audio_db_artist_name">Nire FM grabazioak</string>
+  <string name="audio_db_album_name">FM grabazioak</string>
+  <string name="audio_db_playlist_name">FM grabazioak</string>
+  <string name="save_record_file">FM grabazioaren fitxategia <xliff:g id="record_file">%1$s</xliff:g> -n gorde da</string>
+  <string name="fm_record_progress">FM grabazioa martxan</string>
 </resources>

@@ -29,15 +29,15 @@
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="no_storage">Felvétel indítása előtt csatlakoztasson SD kártyát.</string>
-  <string name="preparing_sd">SD kártya előkészítése</string>
-  <string name="access_sd_fail">Nem lehet hozzáférni az SD kártyához.</string>
-  <string name="spaceIsLow_content">Az SD kártyája majdnem megtelt. Változtasson a minőségen, vagy töröljön képeket vagy más fájlokat.</string>
-  <string name="FMRecording_reach_size_limit">Elérte a maximális méretet.</string>
+  <string name="no_storage">録音を開始する前にSDカードをマウントしてください。</string>
+  <string name="preparing_sd">SDカードを準備中</string>
+  <string name="access_sd_fail">SDカードにアクセスできません。</string>
+  <string name="spaceIsLow_content">SDカードの容量が不足しています。音質の設定を変更するか、画像や他のファイルを削除してください。</string>
+  <string name="FMRecording_reach_size_limit">サイズの制限に達しました。</string>
   <string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
-  <string name="audio_db_artist_name">Saját FM felvételek</string>
-  <string name="audio_db_album_name">FM felvételek</string>
-  <string name="audio_db_playlist_name">FM felvételek</string>
-  <string name="save_record_file">\"<xliff:g id="record_file">%1$s</xliff:g>\" FM felvétel elmentve</string>
-  <string name="fm_record_progress">FM felvétel folyamatban</string>
+  <string name="audio_db_artist_name">マイFM録音</string>
+  <string name="audio_db_album_name">FM録音</string>
+  <string name="audio_db_playlist_name">FM録音</string>
+  <string name="save_record_file">FM録音は｢<xliff:g id="record_file">%1$s</xliff:g>｣に保存されました。</string>
+  <string name="fm_record_progress">FM録音中</string>
 </resources>
